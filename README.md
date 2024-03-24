@@ -46,15 +46,6 @@ python main.py
 3. Follow the on-screen instructions to interact with the virtual assistant using text input or speech recognition.
 
 ## Contributing
-Contributions are welcome! If you want to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -am 'Add new feature'`).
-4. Push your changes to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
-
-## Contributing
 Contributions are welcome! If you have ideas for new features, improvements, bug fixes, or any other enhancements, feel free to contribute to this project. You can contribute by:
 
 - Adding new functionalities to the virtual assistant.
